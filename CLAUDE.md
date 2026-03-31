@@ -18,7 +18,9 @@ tutorial/
     ├── Lesson_02_Handshake_Burst_Response.md # 第 2 课（已完成）
     ├── Lesson_02_Answers.md                 # 第 2 课练习答案
     ├── Lesson_03_AXI_Package.md             # 第 3 课（已完成）
-    └── Lesson_03_Answers.md                 # 第 3 课练习答案
+    ├── Lesson_03_Answers.md                 # 第 3 课练习答案
+    ├── Lesson_04_Typedef_Macros.md          # 第 4 课（已完成）
+    └── Lesson_04_Answers.md                 # 第 4 课练习答案
 ```
 
 ## 课程进度
@@ -26,7 +28,8 @@ tutorial/
 - [x] 第 1 课：AXI 协议概述与五通道架构
 - [x] 第 2 课：握手机制、Burst 类型与响应编码
 - [x] 第 3 课：AXI Package — 类型、常量与辅助函数
-- [ ] 第 4-30 课：待编写
+- [x] 第 4 课：Typedef 宏 — 参数化类型生成
+- [ ] 第 5-30 课：待编写
 
 ## 教材编写规范
 
